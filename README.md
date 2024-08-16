@@ -6,5 +6,6 @@ ISO-14443-3a && ISO-14443-2 -> are the standards that have been used to make thi
 MF1S50YYX_V1 -> is the datasheet of the MIFARE cards.
 MFRC522 -> is the datasheet of the RC522 "module" .
 
+<img width="854" alt="KTM_Shema_Projekta" src="https://github.com/user-attachments/assets/9c6f10f4-bb50-4a0f-a597-80379fb77e1b">
 
 
