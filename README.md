@@ -3,7 +3,7 @@
 
 # Short Explanation Of The Project
 This is my project for a Seminar/Project course in my Undergraduate professional study of Mechatronics at Zagreb University of Applied Sciences.
-In short, the project you can see in the above Photograph
+In short, the project you can see in the [above image](https://github.com/Emil-J/RC522_Lock-STM32-Project/blob/main/README.md#photograph-showing-the-project-irl) shows a F446RE Nucleo board, relay, solenoid lock, an LCD, a buzzer, an LED and a RC522 module for the MIFARE Cards. The bulk of the project was prgoramming the communication between all the devices withing the nucleo board. The hardest part was making the RC522 module work, before my project there were no projects that had a functioning RC522 module work with a F446RE Nucleo board. The ISO standards are a part of the files of the project because without them, understanding the module and also programming the communication between the MIFARE cards and the RC522 module would be practically impossible.
 
 # Photograph Showing The Wiring Schematic
 <img width="854" alt="KTM_Shema_Projekta" src="https://github.com/user-attachments/assets/9c6f10f4-bb50-4a0f-a597-80379fb77e1b">
