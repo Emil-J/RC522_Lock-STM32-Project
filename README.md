@@ -5,8 +5,10 @@
 * MF1S50YYX_V1 -> This file is the datasheet of the MIFARE cards.
 * MFRC522 -> This file is the datasheet of the RC522 "module".
 * rfid-solenoid-lock.mp4 -> This is a video that shows how it is working IRL.
+
 # Photograph showing how the project was wired
 <img width="854" alt="KTM_Shema_Projekta" src="https://github.com/user-attachments/assets/9c6f10f4-bb50-4a0f-a597-80379fb77e1b">
+
 # Photograph showing the project
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/aac026fc-4e20-4957-b326-a717a84c489c">
 
