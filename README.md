@@ -15,3 +15,4 @@ In short, the project you can see in the [above image](https://github.com/Emil-J
 * MF1S50YYX_V1 -> This file is the datasheet of the MIFARE cards.
 * MFRC522 -> This file is the datasheet of the RC522 "module".
 * rfid-solenoid-lock.mp4 -> This is a video that shows how it is working IRL.
+* STM32F446RE Nucleo board_ STM32CUBEIDE Project.rar -> This is the rar file that contains all the project files for the STM32CUBEIDE software program.
